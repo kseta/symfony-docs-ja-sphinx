@@ -1,0 +1,2 @@
+Sphinx==1.2.3
+git+https://github.com/fabpot/sphinx-php.git
